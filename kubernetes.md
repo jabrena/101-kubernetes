@@ -1,6 +1,6 @@
 # Kubernetes ecosystem
 
-## Index
+## Index
 
 - What is Kubernetes?
 - Kubernetes architecture
@@ -36,7 +36,7 @@ https://kubernetes.io/docs/concepts/overview/components/
 - [kubectl](kubectl.md)
 - [minikube](minikube.md) / microk8s
 
-### HA Clusters
+## HA Kubernetes clusters
 
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
 
