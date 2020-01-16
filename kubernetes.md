@@ -31,7 +31,7 @@ https://kubernetes.io/docs/concepts/overview/components/
   - kube-proxy
   - Container Runtime
 
-## HA Kubernetes clusters
+## Kubernetes development environment
 
 - [kubectl](kubectl.md)
 - [minikube](minikube.md) / microk8s
