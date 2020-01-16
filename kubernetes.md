@@ -18,6 +18,8 @@ for automating application deployment, scaling, and management.
 
 ![](./docs/images/components-of-kubernetes.png)
 
+https://kubernetes.io/docs/concepts/overview/components/
+
 - Master Components
   - kube-apiserver
   - etcd
@@ -29,10 +31,8 @@ for automating application deployment, scaling, and management.
   - kube-proxy
   - Container Runtime
 
-https://kubernetes.io/docs/concepts/overview/components/
+## HA Kubernetes clusters
 
-## Kubernetes in the development environment
- 
 - [kubectl](kubectl.md)
 - [minikube](minikube.md) / microk8s
 
