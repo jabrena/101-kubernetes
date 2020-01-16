@@ -6,6 +6,8 @@
 
 ```
 brew install minikube
+minikube start --vm-driver=hyperkit
+minikube start --vm-driver=virtualbox
 minikube start
 ```
 
