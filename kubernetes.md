@@ -33,6 +33,8 @@ https://kubernetes.io/docs/concepts/overview/components/
 
 
 ## Kubernetes in the development environment
+
+
  
 - [kubectl](kubectl.md)
 - [minikube](minikube.md) / microk8s
