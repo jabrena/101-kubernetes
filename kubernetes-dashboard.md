@@ -1,0 +1,5 @@
+# Kubernetes Dashboard
+
+```
+minikube dashboard
+```

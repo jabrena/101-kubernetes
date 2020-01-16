@@ -16,7 +16,7 @@ for automating application deployment, scaling, and management.
 
 ## Kubernetes architecture
 
-![](./docs/images/components-of-kubernetes.png)
+![](docs/images/components-of-kubernetes.png)
 
 https://kubernetes.io/docs/concepts/overview/components/
 
@@ -35,6 +35,7 @@ https://kubernetes.io/docs/concepts/overview/components/
 
 - [kubectl](kubectl.md)
 - [minikube](minikube.md) / microk8s
+- [Kubernetes Dashboard](kubernetes-dashboard.md)
 
 ## HA Kubernetes clusters
 
