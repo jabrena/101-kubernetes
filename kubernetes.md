@@ -14,7 +14,7 @@
 Kubernetes (commonly stylized as k8s) is an open-source container-orchestration system 
 for automating application deployment, scaling, and management.
 
-## Kubernetes architecture
+## Kubernetes architecture
 
 ![](./docs/images/components-of-kubernetes.png)
 
