@@ -18,6 +18,7 @@
 	</developers>
 
 	<modules>
+		<module>challenge-1</module>
 		<module>challenge-2</module>
 	</modules>
 
