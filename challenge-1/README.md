@@ -18,3 +18,8 @@ kubectl get all --all-namespaces
 minikube ip
 http 192.168.64.3:30348
 ```
+
+## References
+
+- https://ubuntu.com/blog/deploying-kubernetes-locally-microk8s
+- https://juan-medina.com/2019/12/02/microk8s/
