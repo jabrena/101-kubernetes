@@ -12,7 +12,12 @@
 - [x] [Challenge 3](challenge-3/README.md): Deploy a container from an Image stored on a Docker registry
 - [x] [Challenge 4](challenge-4/README.md): Deploy a Database
 - [ ] Deploy a Spring Boot application connected to a database
-- [ ] Deploy 2 Pods and test Discovery Service features out of the box
+- [ ] Deploy 2 Spring Boot and test the Discovery Service features out of the box from Kubernetes
 - [ ] Deploy a Spring Boot application using Spring Cloud Kubernetes features
+- [ ] Deploy Kafka
+- [ ] Deploy a Spring Boot application and send logs to Kafka
+- [ ] Consume logs from Kafka with ELK
+
+
 
  
