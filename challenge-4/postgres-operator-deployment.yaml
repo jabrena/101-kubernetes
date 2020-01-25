@@ -1,0 +1,19 @@
+apiVersion: "acid.zalan.do/v1"
+kind: postgresql
+metadata:
+  name: movies-db-cluster
+  namespace: default
+spec:
+  teamId: "movies"
+  volume:
+    size: 1Gi
+  numberOfInstances: 2
+  users:
+    moviesdba:  # database owner
+      - superuser
+      - createdb
+    moviesuser: []  # roles
+  databases:
+    movies: moviesdba  # dbname: owner
+  postgresql:
+    version: "11"
