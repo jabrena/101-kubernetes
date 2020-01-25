@@ -6,6 +6,8 @@ kubectl run challenge-3 --image=springio/gs-spring-boot-docker:latest --port=808
 kubectl get all --all-namespaces
 kubectl expose deployment challenge-3 --type=NodePort
 http 192.168.64.3:31123/
+
+kubectl delete deploy/challenge-3 svc/challenge-3
 ```
 
 ## References

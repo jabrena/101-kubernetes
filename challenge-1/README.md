@@ -17,6 +17,9 @@ kubectl get service --selector=app=microbot
 kubectl get all --all-namespaces
 minikube ip
 http 192.168.64.3:30348
+
+
+kubectl delete deploy/microbot svc/microbot-service
 ```
 
 ## References

@@ -17,6 +17,8 @@ http localhost:8080/actuator/health
 eval $(minikube docker-env)
 docker build . -t challenge-2:latest --rm=true
 docker run -p 8080:8080 -t challenge-2
+
+kubectl delete deploy/challenge-2 svc/challenge-2
 ```
 
 ## References
